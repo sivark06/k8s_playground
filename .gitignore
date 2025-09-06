@@ -11,3 +11,4 @@ override.tf.json
 terraform.tfvars
 # Keys
 *.json
+hashicorp/
