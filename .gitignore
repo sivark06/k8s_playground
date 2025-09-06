@@ -1,4 +1,6 @@
 # Terraform
+hashicorp/
+hashicorp/*
 .terraform/
 .terraform.*
 *.tfstate
@@ -11,4 +13,3 @@ override.tf.json
 terraform.tfvars
 # Keys
 *.json
-hashicorp/
