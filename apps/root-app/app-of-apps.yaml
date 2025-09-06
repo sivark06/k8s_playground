@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/GITHUB_USER/REPO.git
+    repoURL: https://github.com/hmohamedansari/k8s_playground.git
     targetRevision: main
     path: apps
     directory:

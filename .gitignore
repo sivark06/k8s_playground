@@ -13,3 +13,5 @@ override.tf.json
 terraform.tfvars
 # Keys
 *.json
+keepthislocal.sh
+.DS_Store
