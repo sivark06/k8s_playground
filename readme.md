@@ -1,4 +1,4 @@
-### README: GKE ML Playground (Istio + Argo CD + Kubeflow Pipelines/KServe)
+### GKE ML Playground (Istio + Argo CD + Kubeflow Pipelines/KServe)
 
 #### Overview
 This repo spins up a cost-optimized, personal GKE Playground that you can destroy/recreate daily in minutes—ideal for demos and learning. It’s wired for GitOps with Argo CD so your stack rehydrates from GitHub automatically.
@@ -204,6 +204,6 @@ In apps/root-app/app-of-apps.yaml, set:
 - KServe
 
 #### Badges (optional)
-You can add badges for Terraform, GKE, Argo CD, and GitHub Actions build status once your repo is public.
+You can add badges for Terraform, GKE, Argo CD, and GitHub Actions build status as you like.
 
 Need help tailoring for your project or adding full Kubeflow? Open an issue or reach out!
