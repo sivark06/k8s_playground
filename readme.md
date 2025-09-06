@@ -194,7 +194,7 @@ In apps/root-app/app-of-apps.yaml, set:
   - Use private cluster and Cloud NAT
 
 #### License
-- MIT (or add your preferred license)
+- GNU General Public License v3.0
 
 #### Credits
 - Kubernetes on GKE with Terraform
